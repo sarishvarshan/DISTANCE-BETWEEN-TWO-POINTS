@@ -16,6 +16,9 @@ Print both the values it would be interchanged
 ### Step 6:
 Endthe program
 ### PROGRAM:
+#program to find the distance 
+#Developed by : Sarish Varshan V
+#Register Number : 212223230196
 ```
 import math
 x_2=4
@@ -26,6 +29,10 @@ d=(x_2-x_1)**2+(y_2-y_1)**2
 e=math.sqrt(d)
 print(f'{e:.2f}')
 ```
+
+
+
+
   
 
 
